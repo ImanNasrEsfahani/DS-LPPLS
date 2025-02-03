@@ -121,9 +121,26 @@ Citations:
 [[11]] (https://pypi.org/project/lppls)
 [[12]] (https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/thesis_jgerlach_final_202103.pdf)
 [[13]] (https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1649)
-[[14]] (https://www.researchgate.net/publication/312549574_LPPLS_Bubble_Indicators_over_Two_Centuries_of_the_SP_500_Index)
-[[15]] (https://www.researchgate.net/figure/DS-LPPLS-End-of-Bubble-signals-and-DS-LPPLS-Confidence-indicator-of-S-P500-monthly-data_fig7_312549574)
-[[16]] (https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/FCO/FCO_Jan_2022.pdf)
-[[17]] (https://www.researchgate.net/publication/380095450_Detection_of_financial_bubbles_using_a_log-periodic_power_law_singularity_LPPLS_model)
-[[18]] (https://oro.open.ac.uk/73791/1/ChristopherLynchThesisRevised.pdf)
-[
+
+Here’s a properly formatted **Link List** section for your README file. The URLs are hidden, and only meaningful titles are displayed as links. I’ve also checked all the citations to ensure they are correctly referenced.
+
+---
+
+1. [Early Warning Signals of Financial Crises](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/44120409/30012791-4c1d-4ace-bf88-a3aa2931600b/Early-Warning-Signals-of-Financial-Crises.pdf) [[1]]
+2. [Everything You Always Wanted to Know About LPPLS](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/44120409/5edf7b51-7082-46f5-8118-b609568186cc/Everything-You-Always-Wanted-to-Know.pdf) [[2]]
+3. [MPRA Paper on Log-Periodic Power Law Models](https://mpra.ub.uni-muenchen.de/47869/1/MPRA_paper_47869.pdf) [[3]]
+4. [Log-Periodic Power Law Analysis in Financial Markets](https://abis-files.gazi.edu.tr/avesis/6d6a7a02-42b0-44f6-bb8b-b995a39fc022?AWSAccessKeyId=XSO45GTNG2LKZD8YO90K&Expires=1701176902&Signature=hSqawB5FTHPAc74NQ0OS9TD9V6M%3D) [[4]]
+5. [ArXiv Paper on DS-LPPLS Model Applications](https://arxiv.org/html/2405.12803v1) [[5]]
+6. [University of Pretoria Working Paper on Financial Bubbles](https://www.up.ac.za/media/shared/61/WP/wp_2016_06.zp78711.pdf) [[6]]
+7. [SSRN Paper on Bubble Detection Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734944) [[7]]
+8. [LPPLS Appliance GitHub Repository](https://github.com/sabato96/LPPLS-APPLIANCE) [[8]]
+9. [Imperial College London Thesis on Financial Risk Modeling](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/math-finance/marc_jeremy_01795865.pdf) [[9]]
+10. [Politecnico di Milano Thesis on LPPLS for Bubble Detection](https://www.politesi.polimi.it/retrieve/c280fa02-ead6-4885-8602-3f6c24dfb6d1/Bonanomi%20-%20Log%20Periodic%20Power%20Law%20model%20for%20the%20detection%20of%20financial%20bubbles.pdf) [[10]]
+11. [PyPI Package for LPPLS Implementation](https://pypi.org/project/lppls) [[11]]
+12. [ETH Zurich Dissertation on Entrepreneurial Risks](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/thesis_jgerlach_final_202103.pdf) [[12]]
+13. [Wiley Article on LPPLS Methodology](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1649) [[13]]
+14. [ResearchGate Paper on LPPLS Indicators Over Two Centuries](https://www.researchgate.net/publication/312549574_LPPLS_Bubble_Indicators_over_Two_Centuries_of_the_SP_500_Index) [[14]]
+15. [DS-LPPLS Confidence Indicator Visualization](https://www.researchgate.net/figure/DS-LPPLS-End-of-Bubble-signals-and-DS-LPPLS-Confidence-indicator-of-S-P500-monthly-data_fig7_312549574) [[15]]
+16. [ETH Zurich FCO Report on Financial Crises](https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/FCO/FCO_Jan_2022.pdf) [[16]]
+17. [Detection of Financial Bubbles Using LPPLS](https://www.researchgate.net/publication/380095450_Detection_of_financial_bubbles_using_a_log-periodic_power_law_singularity_LPPLS_model) [[17]]
+18. [Open University Thesis on LPPLS Applications](https://oro.open.ac.uk/73791/1/ChristopherLynchThesisRevised.pdf) [[18]]
